@@ -18,10 +18,11 @@ module.exports = {
   "DELETEMSGSENDTO": "94742274855",
   "ALWAYS_ONLINE": "false",
   "MOROCCO_BLOCK": "false",
-  "OWNER_NAME": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 podi👀💚",
+  "OWNER_NAME": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 👀💚",
   "OWNER_NUMBER": "94742274855",
   "AUTO_BIO": "true",
   "AUTO_TYPING": "true",
   "AUTO_RECORDING": "false",
   "WARN_COUNT": "3",
   "AI_MODE": false,
+}
