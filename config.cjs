@@ -3,7 +3,7 @@ module.exports = {
   "FOOT": "Hiruu Max podi💗💐👀",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
-  "MODE": "private",
+  "MODE": "public",
   "BOT_NUMBER": "94782678552",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": "false",
