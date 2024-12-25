@@ -25,4 +25,3 @@ module.exports = {
   "AUTO_RECORDING": "false",
   "WARN_COUNT": "3",
   "AI_MODE": false,
-};
